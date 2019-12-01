@@ -42,7 +42,11 @@ header nav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
+<<<<<<< HEAD
   font-size: 34px;
+=======
+  font-size: 36px;
+>>>>>>> header
   margin: 0 20px;
 }
 
